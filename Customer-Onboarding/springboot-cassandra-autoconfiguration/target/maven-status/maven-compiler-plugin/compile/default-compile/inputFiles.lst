@@ -1,0 +1,9 @@
+/home/soaswal/springboot-cassandra-autoconfiguration/springboot-cassandra-autoconfiguration/src/main/java/com/springboot/controller/CustomerDTO.java
+/home/soaswal/springboot-cassandra-autoconfiguration/springboot-cassandra-autoconfiguration/src/main/java/com/springboot/controller/CustomerMapper.java
+/home/soaswal/springboot-cassandra-autoconfiguration/springboot-cassandra-autoconfiguration/src/main/java/com/springboot/model/SimpleTable.java
+/home/soaswal/springboot-cassandra-autoconfiguration/springboot-cassandra-autoconfiguration/src/main/java/com/springboot/exceptions/BadRequestException.java
+/home/soaswal/springboot-cassandra-autoconfiguration/springboot-cassandra-autoconfiguration/src/main/java/com/springboot/SpringbootCustomerApplication.java
+/home/soaswal/springboot-cassandra-autoconfiguration/springboot-cassandra-autoconfiguration/src/main/java/com/springboot/controller/Customer.java
+/home/soaswal/springboot-cassandra-autoconfiguration/springboot-cassandra-autoconfiguration/src/main/java/com/springboot/exceptions/ControllerAdvice.java
+/home/soaswal/springboot-cassandra-autoconfiguration/springboot-cassandra-autoconfiguration/src/main/java/com/springboot/controller/CustomerController.java
+/home/soaswal/springboot-cassandra-autoconfiguration/springboot-cassandra-autoconfiguration/src/main/java/com/springboot/repository/CassandraRepository.java
