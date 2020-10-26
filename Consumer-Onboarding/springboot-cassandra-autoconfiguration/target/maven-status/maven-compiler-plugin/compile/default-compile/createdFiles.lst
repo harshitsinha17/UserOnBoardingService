@@ -1,0 +1,13 @@
+com/springboot/exceptions/ResourceAlreadyExistsException.class
+com/springboot/controller/CustomerDTO.class
+com/springboot/exceptions/BadRequestException.class
+com/springboot/SpringbootCassandraApplication.class
+com/springboot/controller/ConsumerController.class
+com/springboot/exceptions/ControllerExceptionAdvice.class
+com/springboot/exceptions/ResourceNotFoundException.class
+com/springboot/model/SimpleTable.class
+com/springboot/controller/Consumer.class
+com/springboot/repository/ConsumerCassandraRepository.class
+com/springboot/controller/ConsumerMapper.class
+com/springboot/repository/CustomerCassandraRepository.class
+com/springboot/controller/ConsumerDTO.class
